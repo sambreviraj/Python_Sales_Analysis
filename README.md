@@ -1,7 +1,7 @@
 # Python_Sales_Analysis
 
 **Summary:**
-The "Sales Analysis" notebook presents a comprehensive exploration of sales data using Python, with a focus on data cleaning, manipulation, and exploratory data analysis (EDA). The analysis is conducted with the aid of prominent libraries such as Pandas, Matplotlib, and Seaborn.
+The "Sales Analysis" presents a comprehensive exploration of sales data using Python, with a focus on data cleaning, manipulation, and exploratory data analysis (EDA). The analysis is conducted with the aid of prominent libraries such as Pandas, Matplotlib, and Seaborn.
 
 **Key Takeaways:**
 1. **Cleaning and Organizing Data:**
